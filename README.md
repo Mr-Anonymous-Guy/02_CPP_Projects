@@ -55,9 +55,3 @@ Each project is structured and well-commented for easy understanding and reuse.
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Mr-Anonymous-Guy/CPP-Projects.git
-   cd CPP-Projects
